@@ -4,7 +4,7 @@ public class Animal {
     //inner class
     public class Dog{
         private String name;
-        public void hello(){
+        public void hello() {
             System.out.println("Hello, I'm dog");
         }
     }

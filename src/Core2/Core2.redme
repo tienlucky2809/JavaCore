@@ -1,0 +1,25 @@
+* Java core nang cao
+1. collection
+    - list, set, map, queue
+     -list : arraylist, linkedlist, vector
+        comparable, comparator, iterator
+    - set: hashset, linkedhashset, treeset
+    - queue -  linkedlist
+    - map: hashmap, tree map (key - value)
+        keySet(), entrySet()
+2. StringBuilder, StringBuffer
+    - Ca 2 tieu ton it bo nho heap
+    - StringBuilder : khoong dong bo
+    - StringBuffer : dong bo hoa trong cac ham
+3. Serializable
+    - Luu doi tuong duoi dang 1 string, -> serializable giup nhan biet phien ban cua doi tuong luwu xuong
+4. Lam viec voi File
+5. date time
+    - SimpleDateFormat:  - string : format(date)
+                         - Date : parse(string)
+
+                         https://www.facebook.com/groups/chiasekienthucmienphi/
+                         https://www.facebook.com/groups/hoivipmembergiupdonhauhoctap/
+
+
+
