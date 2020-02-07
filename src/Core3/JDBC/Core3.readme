@@ -1,0 +1,16 @@
+-Kết nối database
+1.Connection JDBC
+    driver, connection
+2.Statement, ResultSet
+    - select
+    - create, drop table
+    - insert, update, delete record
+    - prepareStatement: mem deo trong sql hon
+3.Transaction
+    - jdbc transaction ho tro bat ngoai le, neu 1 statement bi loi thi tat cac cac statement khac se phai roll back
+    connection.setAutoCommit(false);
+
+4. Batch processing
+5. ResultSetMetaData: lay thong tin tu (meta data) ResultSet
+   DatabaseMetaData:
+6. CallableStatement : goi proceduce
