@@ -14,4 +14,3 @@
 5. ResultSetMetaData: lay thong tin tu (meta data) ResultSet
    DatabaseMetaData:
 6. CallableStatement : goi proceduce
-
